@@ -90,7 +90,7 @@ https://medium.com/@daj/creating-an-image-classifier-on-android-using-tensorflow
  - 0079 https://flic.kr/p/aWZcuH 
  - 0080 https://flic.kr/p/7xiSPV 
 
-## Hot dog
+## Hot dogs
 
  - 0001 https://flic.kr/p/9ouGey
  - 0002 https://flic.kr/p/DarjvG 
